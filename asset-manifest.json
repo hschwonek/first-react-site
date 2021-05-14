@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/hschwonek/first-react-site.git/static/css/main.42556ae5.chunk.css",
-    "main.js": "/hschwonek/first-react-site.git/static/js/main.8b75783e.chunk.js",
-    "main.js.map": "/hschwonek/first-react-site.git/static/js/main.8b75783e.chunk.js.map",
-    "runtime-main.js": "/hschwonek/first-react-site.git/static/js/runtime-main.35457e6a.js",
-    "runtime-main.js.map": "/hschwonek/first-react-site.git/static/js/runtime-main.35457e6a.js.map",
-    "static/js/2.d102d3b3.chunk.js": "/hschwonek/first-react-site.git/static/js/2.d102d3b3.chunk.js",
-    "static/js/2.d102d3b3.chunk.js.map": "/hschwonek/first-react-site.git/static/js/2.d102d3b3.chunk.js.map",
-    "index.html": "/hschwonek/first-react-site.git/index.html",
-    "static/css/main.42556ae5.chunk.css.map": "/hschwonek/first-react-site.git/static/css/main.42556ae5.chunk.css.map",
-    "static/js/2.d102d3b3.chunk.js.LICENSE.txt": "/hschwonek/first-react-site.git/static/js/2.d102d3b3.chunk.js.LICENSE.txt",
-    "static/media/HeroSectionProjects.css": "/hschwonek/first-react-site.git/static/media/beach-painting.7d5536df.jpg"
+    "main.css": "/first-react-site/static/css/main.fee9d71c.chunk.css",
+    "main.js": "/first-react-site/static/js/main.8b75783e.chunk.js",
+    "main.js.map": "/first-react-site/static/js/main.8b75783e.chunk.js.map",
+    "runtime-main.js": "/first-react-site/static/js/runtime-main.21b165ba.js",
+    "runtime-main.js.map": "/first-react-site/static/js/runtime-main.21b165ba.js.map",
+    "static/js/2.d102d3b3.chunk.js": "/first-react-site/static/js/2.d102d3b3.chunk.js",
+    "static/js/2.d102d3b3.chunk.js.map": "/first-react-site/static/js/2.d102d3b3.chunk.js.map",
+    "index.html": "/first-react-site/index.html",
+    "static/css/main.fee9d71c.chunk.css.map": "/first-react-site/static/css/main.fee9d71c.chunk.css.map",
+    "static/js/2.d102d3b3.chunk.js.LICENSE.txt": "/first-react-site/static/js/2.d102d3b3.chunk.js.LICENSE.txt",
+    "static/media/HeroSectionProjects.css": "/first-react-site/static/media/beach-painting.7d5536df.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.35457e6a.js",
+    "static/js/runtime-main.21b165ba.js",
     "static/js/2.d102d3b3.chunk.js",
-    "static/css/main.42556ae5.chunk.css",
+    "static/css/main.fee9d71c.chunk.css",
     "static/js/main.8b75783e.chunk.js"
   ]
 }
