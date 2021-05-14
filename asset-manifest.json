@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/git@github.com:hschwonek/portfolio-site.git/static/css/main.e953af5e.chunk.css",
-    "main.js": "/git@github.com:hschwonek/portfolio-site.git/static/js/main.8b75783e.chunk.js",
-    "main.js.map": "/git@github.com:hschwonek/portfolio-site.git/static/js/main.8b75783e.chunk.js.map",
-    "runtime-main.js": "/git@github.com:hschwonek/portfolio-site.git/static/js/runtime-main.fa96f65b.js",
-    "runtime-main.js.map": "/git@github.com:hschwonek/portfolio-site.git/static/js/runtime-main.fa96f65b.js.map",
-    "static/js/2.d102d3b3.chunk.js": "/git@github.com:hschwonek/portfolio-site.git/static/js/2.d102d3b3.chunk.js",
-    "static/js/2.d102d3b3.chunk.js.map": "/git@github.com:hschwonek/portfolio-site.git/static/js/2.d102d3b3.chunk.js.map",
-    "index.html": "/git@github.com:hschwonek/portfolio-site.git/index.html",
-    "static/css/main.e953af5e.chunk.css.map": "/git@github.com:hschwonek/portfolio-site.git/static/css/main.e953af5e.chunk.css.map",
-    "static/js/2.d102d3b3.chunk.js.LICENSE.txt": "/git@github.com:hschwonek/portfolio-site.git/static/js/2.d102d3b3.chunk.js.LICENSE.txt",
-    "static/media/HeroSectionProjects.css": "/git@github.com:hschwonek/portfolio-site.git/static/media/beach-painting.7d5536df.jpg"
+    "main.css": "/hschwonek/first-react-site.git/static/css/main.42556ae5.chunk.css",
+    "main.js": "/hschwonek/first-react-site.git/static/js/main.8b75783e.chunk.js",
+    "main.js.map": "/hschwonek/first-react-site.git/static/js/main.8b75783e.chunk.js.map",
+    "runtime-main.js": "/hschwonek/first-react-site.git/static/js/runtime-main.35457e6a.js",
+    "runtime-main.js.map": "/hschwonek/first-react-site.git/static/js/runtime-main.35457e6a.js.map",
+    "static/js/2.d102d3b3.chunk.js": "/hschwonek/first-react-site.git/static/js/2.d102d3b3.chunk.js",
+    "static/js/2.d102d3b3.chunk.js.map": "/hschwonek/first-react-site.git/static/js/2.d102d3b3.chunk.js.map",
+    "index.html": "/hschwonek/first-react-site.git/index.html",
+    "static/css/main.42556ae5.chunk.css.map": "/hschwonek/first-react-site.git/static/css/main.42556ae5.chunk.css.map",
+    "static/js/2.d102d3b3.chunk.js.LICENSE.txt": "/hschwonek/first-react-site.git/static/js/2.d102d3b3.chunk.js.LICENSE.txt",
+    "static/media/HeroSectionProjects.css": "/hschwonek/first-react-site.git/static/media/beach-painting.7d5536df.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa96f65b.js",
+    "static/js/runtime-main.35457e6a.js",
     "static/js/2.d102d3b3.chunk.js",
-    "static/css/main.e953af5e.chunk.css",
+    "static/css/main.42556ae5.chunk.css",
     "static/js/main.8b75783e.chunk.js"
   ]
 }
