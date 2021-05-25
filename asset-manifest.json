@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/first-react-site/static/css/main.fee9d71c.chunk.css",
-    "main.js": "/first-react-site/static/js/main.8b75783e.chunk.js",
-    "main.js.map": "/first-react-site/static/js/main.8b75783e.chunk.js.map",
+    "main.css": "/first-react-site/static/css/main.f86229c9.chunk.css",
+    "main.js": "/first-react-site/static/js/main.48125668.chunk.js",
+    "main.js.map": "/first-react-site/static/js/main.48125668.chunk.js.map",
     "runtime-main.js": "/first-react-site/static/js/runtime-main.21b165ba.js",
     "runtime-main.js.map": "/first-react-site/static/js/runtime-main.21b165ba.js.map",
     "static/js/2.d102d3b3.chunk.js": "/first-react-site/static/js/2.d102d3b3.chunk.js",
     "static/js/2.d102d3b3.chunk.js.map": "/first-react-site/static/js/2.d102d3b3.chunk.js.map",
     "index.html": "/first-react-site/index.html",
-    "static/css/main.fee9d71c.chunk.css.map": "/first-react-site/static/css/main.fee9d71c.chunk.css.map",
+    "static/css/main.f86229c9.chunk.css.map": "/first-react-site/static/css/main.f86229c9.chunk.css.map",
     "static/js/2.d102d3b3.chunk.js.LICENSE.txt": "/first-react-site/static/js/2.d102d3b3.chunk.js.LICENSE.txt",
-    "static/media/HeroSectionProjects.css": "/first-react-site/static/media/beach-painting.7d5536df.jpg"
+    "static/media/ContactHero.css": "/first-react-site/static/media/beach-painting.7d5536df.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.21b165ba.js",
     "static/js/2.d102d3b3.chunk.js",
-    "static/css/main.fee9d71c.chunk.css",
-    "static/js/main.8b75783e.chunk.js"
+    "static/css/main.f86229c9.chunk.css",
+    "static/js/main.48125668.chunk.js"
   ]
 }
